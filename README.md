@@ -8,6 +8,12 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 **Start Date**: September 8, 2025
 **Target Completion**: December 7, 2025 (90 days)
 
+## 🛠 Tech Stack
+- **Language**: Python 3.13
+- **IDE**: VS Code with extensions
+- **Version Control**: Git & GitHub
+- **AI Assistant**: GitHub Copilot
+
 ## 🚀 Daily Progress
 
 ### Day 1 (September 8, 2025) ✅
@@ -35,13 +41,31 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Functions and basic algorithms
 - More complex problem solving
 
-## 🛠 Tech Stack
-- **Language**: Python 3.13
-- **IDE**: VS Code with extensions
-- **Version Control**: Git & GitHub
-- **AI Assistant**: GitHub Copilot
+### Day 2 (September 9, 2025) ✅
+**Topics Covered:**
+- Control structures (if/elif/else statements)
+- Loops (for loops, while loops, nested loops)
+- Functions (definition, parameters, return values, lambda)
+- Complex problem solving combining all concepts
+
+**Projects:**
+- [Control Structures Practice](day_02_control_structures.py)
+- [Loops Practice](day_02_loops_practice.py) 
+- [Functions Practice](day_02_functions_practice.py)
+- [Practice Problems](day_02_practice_problems.py)
+
+**Key Learnings:**
+- Conditional logic and decision making
+- Iteration and repetition patterns
+- Code organization with functions
+- Problem decomposition strategies
+
+**Tomorrow's Plan:**
+- Object-oriented programming basics
+- Classes and objects
+- File handling fundamentals
 
 ## 📊 Progress Tracking
-- **Days Completed**: 1/90
-- **Completion**: 1.1%
+- **Days Completed**: 2/90
+- **Completion**: 2.2%
 - **Current Focus**: Python Fundamentals
