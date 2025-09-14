@@ -1,0 +1,654 @@
+{
+  "basic_statistics": {
+    "total_transactions": 10000,
+    "total_revenue": 9594648.16,
+    "total_profit": 2910448.3,
+    "avg_order_value": 959.464816,
+    "avg_profit_margin": 34.983468320369525,
+    "unique_customers": 3008,
+    "unique_products": 29,
+    "date_range": "2023-09-15 to 2025-09-14",
+    "avg_customer_satisfaction": 4.16503
+  },
+  "customer_analysis": {
+    "segment_performance": [
+      {
+        "customer_segment": "Budget",
+        "total_revenue_sum": 838881.8,
+        "total_revenue_mean": 331.84,
+        "total_revenue_count": 2528,
+        "profit_sum": 254481.77,
+        "customer_satisfaction_mean": 3.94,
+        "quantity_sum": 2568
+      },
+      {
+        "customer_segment": "Premium",
+        "total_revenue_sum": 4997495.64,
+        "total_revenue_mean": 3247.24,
+        "total_revenue_count": 1539,
+        "profit_sum": 1512547.26,
+        "customer_satisfaction_mean": 4.7,
+        "quantity_sum": 3578
+      },
+      {
+        "customer_segment": "Regular",
+        "total_revenue_sum": 3758270.72,
+        "total_revenue_mean": 633.45,
+        "total_revenue_count": 5933,
+        "profit_sum": 1143419.27,
+        "customer_satisfaction_mean": 4.12,
+        "quantity_sum": 6924
+      }
+    ],
+    "top_customers": [
+      {
+        "customer_id": "CUST_02832",
+        "total_revenue": 52129.700000000004,
+        "profit": 14092.91,
+        "transaction_id": 7
+      },
+      {
+        "customer_id": "CUST_00267",
+        "total_revenue": 50094.59,
+        "profit": 12564.52,
+        "transaction_id": 5
+      },
+      {
+        "customer_id": "CUST_02927",
+        "total_revenue": 34496.39,
+        "profit": 10802.0,
+        "transaction_id": 12
+      },
+      {
+        "customer_id": "CUST_01503",
+        "total_revenue": 32619.69,
+        "profit": 8379.58,
+        "transaction_id": 8
+      },
+      {
+        "customer_id": "CUST_02388",
+        "total_revenue": 32432.899999999998,
+        "profit": 8449.380000000001,
+        "transaction_id": 8
+      },
+      {
+        "customer_id": "CUST_01408",
+        "total_revenue": 32203.11,
+        "profit": 10412.27,
+        "transaction_id": 8
+      },
+      {
+        "customer_id": "CUST_00692",
+        "total_revenue": 29378.030000000002,
+        "profit": 7785.71,
+        "transaction_id": 11
+      },
+      {
+        "customer_id": "CUST_00886",
+        "total_revenue": 29047.469999999998,
+        "profit": 9198.36,
+        "transaction_id": 8
+      },
+      {
+        "customer_id": "CUST_01075",
+        "total_revenue": 27171.79,
+        "profit": 7819.65,
+        "transaction_id": 18
+      },
+      {
+        "customer_id": "CUST_01731",
+        "total_revenue": 26938.42,
+        "profit": 8108.71,
+        "transaction_id": 15
+      }
+    ],
+    "ltv_analysis": [
+      {
+        "customer_segment": "Budget",
+        "mean": 4521.92,
+        "median": 2463.19,
+        "std": 5461.65
+      },
+      {
+        "customer_segment": "Premium",
+        "mean": 7540.82,
+        "median": 5748.83,
+        "std": 6849.39
+      },
+      {
+        "customer_segment": "Regular",
+        "mean": 5062.66,
+        "median": 3057.23,
+        "std": 5650.57
+      }
+    ]
+  },
+  "product_analysis": {
+    "category_performance": [
+      {
+        "category": "Electronics",
+        "total_revenue": 4675221.09,
+        "profit": 1168805.08,
+        "quantity": 2599,
+        "profit_margin_pct": 25.0,
+        "customer_satisfaction": 4.21
+      },
+      {
+        "category": "Home & Garden",
+        "total_revenue": 3098232.91,
+        "profit": 1084381.64,
+        "quantity": 2522,
+        "profit_margin_pct": 35.0,
+        "customer_satisfaction": 4.22
+      },
+      {
+        "category": "Sports",
+        "total_revenue": 1022582.11,
+        "profit": 306774.71,
+        "quantity": 2682,
+        "profit_margin_pct": 30.0,
+        "customer_satisfaction": 4.22
+      },
+      {
+        "category": "Clothing",
+        "total_revenue": 620843.87,
+        "profit": 279379.54,
+        "quantity": 2615,
+        "profit_margin_pct": 45.0,
+        "customer_satisfaction": 4.16
+      },
+      {
+        "category": "Books",
+        "total_revenue": 177768.18,
+        "profit": 71107.33,
+        "quantity": 2652,
+        "profit_margin_pct": 40.0,
+        "customer_satisfaction": 4.01
+      }
+    ],
+    "top_products": [
+      {
+        "category": "Electronics",
+        "product_name": "Tablet",
+        "total_revenue": 864110.98,
+        "quantity": 449,
+        "profit": 216027.82
+      },
+      {
+        "category": "Electronics",
+        "product_name": "Laptop",
+        "total_revenue": 804268.1900000001,
+        "quantity": 453,
+        "profit": 201067.02
+      },
+      {
+        "category": "Electronics",
+        "product_name": "Smartphone",
+        "total_revenue": 791086.89,
+        "quantity": 425,
+        "profit": 197771.71
+      },
+      {
+        "category": "Electronics",
+        "product_name": "Camera",
+        "total_revenue": 785403.52,
+        "quantity": 409,
+        "profit": 196350.79
+      },
+      {
+        "category": "Electronics",
+        "product_name": "Headphones",
+        "total_revenue": 739385.02,
+        "quantity": 460,
+        "profit": 184846.2
+      },
+      {
+        "category": "Electronics",
+        "product_name": "Smart Watch",
+        "total_revenue": 690966.49,
+        "quantity": 403,
+        "profit": 172741.54
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Bedding",
+        "total_revenue": 559575.25,
+        "quantity": 422,
+        "profit": 195851.43
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Kitchen Appliances",
+        "total_revenue": 558654.21,
+        "quantity": 411,
+        "profit": 195529.03
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Plants",
+        "total_revenue": 530097.2,
+        "quantity": 425,
+        "profit": 185533.97
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Furniture",
+        "total_revenue": 528121.47,
+        "quantity": 439,
+        "profit": 184842.51
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Decor",
+        "total_revenue": 480525.95,
+        "quantity": 429,
+        "profit": 168184.16
+      },
+      {
+        "category": "Home & Garden",
+        "product_name": "Tools",
+        "total_revenue": 441258.83,
+        "quantity": 396,
+        "profit": 154440.54
+      },
+      {
+        "category": "Sports",
+        "product_name": "Apparel",
+        "total_revenue": 183859.87,
+        "quantity": 456,
+        "profit": 55157.840000000004
+      },
+      {
+        "category": "Sports",
+        "product_name": "Equipment",
+        "total_revenue": 179193.05,
+        "quantity": 456,
+        "profit": 53757.89
+      },
+      {
+        "category": "Sports",
+        "product_name": "Outdoor",
+        "total_revenue": 177363.27,
+        "quantity": 438,
+        "profit": 53209.03
+      }
+    ],
+    "seasonal_trends": [
+      {
+        "category": "Books",
+        "Q1": 51122.53,
+        "Q2": 33042.17,
+        "Q3": 52098.19,
+        "Q4": 41505.29
+      },
+      {
+        "category": "Clothing",
+        "Q1": 136842.58,
+        "Q2": 174095.36,
+        "Q3": 117972.58,
+        "Q4": 191933.35
+      },
+      {
+        "category": "Electronics",
+        "Q1": 928464.02,
+        "Q2": 1312858.85,
+        "Q3": 913179.12,
+        "Q4": 1520719.1
+      },
+      {
+        "category": "Home & Garden",
+        "Q1": 650776.8,
+        "Q2": 951273.01,
+        "Q3": 726139.74,
+        "Q4": 770043.36
+      },
+      {
+        "category": "Sports",
+        "Q1": 230050.62,
+        "Q2": 334968.37,
+        "Q3": 280240.81,
+        "Q4": 177322.31
+      }
+    ]
+  },
+  "temporal_analysis": {
+    "monthly_trends": [
+      {
+        "year": 2023,
+        "month": 9,
+        "total_revenue": 229234.27,
+        "profit": 70124.02,
+        "transaction_id": 193,
+        "customer_satisfaction": 4.26
+      },
+      {
+        "year": 2023,
+        "month": 10,
+        "total_revenue": 485296.93,
+        "profit": 142408.43,
+        "transaction_id": 427,
+        "customer_satisfaction": 4.25
+      },
+      {
+        "year": 2023,
+        "month": 11,
+        "total_revenue": 427847.73,
+        "profit": 128984.46,
+        "transaction_id": 410,
+        "customer_satisfaction": 4.23
+      },
+      {
+        "year": 2023,
+        "month": 12,
+        "total_revenue": 486863.35,
+        "profit": 141817.21,
+        "transaction_id": 428,
+        "customer_satisfaction": 4.09
+      },
+      {
+        "year": 2024,
+        "month": 1,
+        "total_revenue": 302220.43,
+        "profit": 95666.76,
+        "transaction_id": 386,
+        "customer_satisfaction": 4.11
+      },
+      {
+        "year": 2024,
+        "month": 2,
+        "total_revenue": 324037.87,
+        "profit": 95649.22,
+        "transaction_id": 418,
+        "customer_satisfaction": 4.15
+      },
+      {
+        "year": 2024,
+        "month": 3,
+        "total_revenue": 332977.02,
+        "profit": 102493.8,
+        "transaction_id": 432,
+        "customer_satisfaction": 4.14
+      },
+      {
+        "year": 2024,
+        "month": 4,
+        "total_revenue": 460348.95,
+        "profit": 140096.27,
+        "transaction_id": 426,
+        "customer_satisfaction": 4.19
+      },
+      {
+        "year": 2024,
+        "month": 5,
+        "total_revenue": 526924.26,
+        "profit": 159969.76,
+        "transaction_id": 484,
+        "customer_satisfaction": 4.19
+      },
+      {
+        "year": 2024,
+        "month": 6,
+        "total_revenue": 399314.39,
+        "profit": 122159.12,
+        "transaction_id": 412,
+        "customer_satisfaction": 4.19
+      },
+      {
+        "year": 2024,
+        "month": 7,
+        "total_revenue": 314462.07,
+        "profit": 96964.31,
+        "transaction_id": 408,
+        "customer_satisfaction": 4.13
+      },
+      {
+        "year": 2024,
+        "month": 8,
+        "total_revenue": 350848.28,
+        "profit": 104645.59,
+        "transaction_id": 409,
+        "customer_satisfaction": 4.15
+      },
+      {
+        "year": 2024,
+        "month": 9,
+        "total_revenue": 354857.25,
+        "profit": 107856.04,
+        "transaction_id": 392,
+        "customer_satisfaction": 4.13
+      },
+      {
+        "year": 2024,
+        "month": 10,
+        "total_revenue": 488084.77,
+        "profit": 148420.09,
+        "transaction_id": 418,
+        "customer_satisfaction": 4.19
+      },
+      {
+        "year": 2024,
+        "month": 11,
+        "total_revenue": 433993.71,
+        "profit": 130384.31,
+        "transaction_id": 399,
+        "customer_satisfaction": 4.13
+      },
+      {
+        "year": 2024,
+        "month": 12,
+        "total_revenue": 379436.92,
+        "profit": 113849.31,
+        "transaction_id": 407,
+        "customer_satisfaction": 4.2
+      },
+      {
+        "year": 2025,
+        "month": 1,
+        "total_revenue": 355216.56,
+        "profit": 106579.61,
+        "transaction_id": 403,
+        "customer_satisfaction": 4.1
+      },
+      {
+        "year": 2025,
+        "month": 2,
+        "total_revenue": 327093.32,
+        "profit": 101150.64,
+        "transaction_id": 424,
+        "customer_satisfaction": 4.17
+      },
+      {
+        "year": 2025,
+        "month": 3,
+        "total_revenue": 355711.35,
+        "profit": 109391.14,
+        "transaction_id": 434,
+        "customer_satisfaction": 4.14
+      },
+      {
+        "year": 2025,
+        "month": 4,
+        "total_revenue": 520829.89,
+        "profit": 157047.55,
+        "transaction_id": 440,
+        "customer_satisfaction": 4.12
+      },
+      {
+        "year": 2025,
+        "month": 5,
+        "total_revenue": 477964.76,
+        "profit": 143634.71,
+        "transaction_id": 433,
+        "customer_satisfaction": 4.19
+      },
+      {
+        "year": 2025,
+        "month": 6,
+        "total_revenue": 420855.51,
+        "profit": 130302.96,
+        "transaction_id": 417,
+        "customer_satisfaction": 4.17
+      },
+      {
+        "year": 2025,
+        "month": 7,
+        "total_revenue": 320092.97,
+        "profit": 100064.84,
+        "transaction_id": 425,
+        "customer_satisfaction": 4.16
+      },
+      {
+        "year": 2025,
+        "month": 8,
+        "total_revenue": 403279.91,
+        "profit": 125142.63,
+        "transaction_id": 419,
+        "customer_satisfaction": 4.18
+      },
+      {
+        "year": 2025,
+        "month": 9,
+        "total_revenue": 116855.69,
+        "profit": 35645.52,
+        "transaction_id": 156,
+        "customer_satisfaction": 4.24
+      }
+    ],
+    "quarterly_analysis": [
+      {
+        "quarter": "Q1",
+        "total_revenue": 1997256.55,
+        "profit": 610931.17,
+        "quantity": 3332
+      },
+      {
+        "quarter": "Q2",
+        "total_revenue": 2806237.76,
+        "profit": 853210.37,
+        "quantity": 3423
+      },
+      {
+        "quarter": "Q3",
+        "total_revenue": 2089630.44,
+        "profit": 640442.95,
+        "quantity": 3141
+      },
+      {
+        "quarter": "Q4",
+        "total_revenue": 2701523.41,
+        "profit": 805863.81,
+        "quantity": 3174
+      }
+    ],
+    "dow_patterns": [
+      {
+        "day_of_week": "Friday",
+        "sum": 1349698.76,
+        "mean": 945.17,
+        "count": 1428
+      },
+      {
+        "day_of_week": "Monday",
+        "sum": 1460293.77,
+        "mean": 1005.02,
+        "count": 1453
+      },
+      {
+        "day_of_week": "Saturday",
+        "sum": 1332595.22,
+        "mean": 953.9,
+        "count": 1397
+      },
+      {
+        "day_of_week": "Sunday",
+        "sum": 1477490.48,
+        "mean": 992.94,
+        "count": 1488
+      },
+      {
+        "day_of_week": "Thursday",
+        "sum": 1293754.32,
+        "mean": 919.51,
+        "count": 1407
+      },
+      {
+        "day_of_week": "Tuesday",
+        "sum": 1375500.67,
+        "mean": 982.5,
+        "count": 1400
+      },
+      {
+        "day_of_week": "Wednesday",
+        "sum": 1305314.94,
+        "mean": 914.73,
+        "count": 1427
+      }
+    ],
+    "growth_rate": -2.659222053495125
+  },
+  "regional_analysis": {
+    "regional_performance": [
+      {
+        "region": "Central",
+        "total_revenue": 1841601.55,
+        "profit": 564814.27,
+        "customer_satisfaction": 4.17,
+        "customer_id": 1398
+      },
+      {
+        "region": "East",
+        "total_revenue": 1934235.53,
+        "profit": 589516.37,
+        "customer_satisfaction": 4.18,
+        "customer_id": 1362
+      },
+      {
+        "region": "North",
+        "total_revenue": 2072013.22,
+        "profit": 620622.24,
+        "customer_satisfaction": 4.16,
+        "customer_id": 1386
+      },
+      {
+        "region": "South",
+        "total_revenue": 1913397.23,
+        "profit": 578303.1,
+        "customer_satisfaction": 4.16,
+        "customer_id": 1318
+      },
+      {
+        "region": "West",
+        "total_revenue": 1833400.63,
+        "profit": 557192.32,
+        "customer_satisfaction": 4.16,
+        "customer_id": 1391
+      }
+    ],
+    "channel_performance": [
+      {
+        "channel": "Mobile App",
+        "total_revenue": 3158511.72,
+        "profit": 967229.16,
+        "customer_satisfaction": 4.18
+      },
+      {
+        "channel": "Physical Store",
+        "total_revenue": 1588372.63,
+        "profit": 472416.2,
+        "customer_satisfaction": 4.17
+      },
+      {
+        "channel": "Third Party",
+        "total_revenue": 960096.56,
+        "profit": 288114.51,
+        "customer_satisfaction": 4.14
+      },
+      {
+        "channel": "Website",
+        "total_revenue": 3887667.25,
+        "profit": 1182688.43,
+        "customer_satisfaction": 4.15
+      }
+    ]
+  }
+}
