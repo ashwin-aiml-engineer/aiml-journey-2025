@@ -8,7 +8,29 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 **Start Date**: September 8, 2025  
 **Target Completion**: December 7, 2025 (90 days)
 
+
 ## 📅 Daily Progress Log
+### Day 9 (September 16, 2025) ✅
+*Topics Covered:*
+- Introduction to Machine Learning concepts and terminology
+- Types of ML: supervised, unsupervised, reinforcement
+- ML workflow and project lifecycle
+- Hands-on: Classification, Regression, Clustering (scikit-learn)
+- ML concept mini project: practical, simplified code
+
+*Projects:* [ML Introduction Practice](Week_02/day_09_ml_introduction.py) • [ML Concept Mini Project](Week_02/day_09_ml_concept_mini_project.py)
+
+*Key Learnings:*
+- Identified ML problem types and workflows
+- Implemented and evaluated basic ML models (classification, regression, clustering)
+- Practiced with scikit-learn for real ML tasks
+- Understood the difference between problem types and model selection
+- Simplified code for hands-on learning and clarity
+
+*Tomorrow's Plan:*
+- Scikit-learn deep dive and advanced model evaluation
+- Feature engineering and preprocessing
+- Building a complete ML pipeline
 
 ### Day 1 (September 8, 2025) ✅
 *Topics Covered:*
@@ -120,9 +142,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - *AI Assistant*: GitHub Copilot
 
 ## 📊 Progress Tracking
-- *Days Completed*: 8/90
-- *Completion*: 8.9%
-- *Streak*: 8 consecutive days ✅
+- *Days Completed*: 9/90
+- *Completion*: 10.0%
+- *Streak*: 9 consecutive days ✅
 
 ## 🎯 Weekly Milestones
 
@@ -139,11 +161,13 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 ### Week 2 (Days 8-14): Advanced Python & ML Introduction
 - [x] Advanced Python concepts (decorators, generators, context managers)
-- [ ] Introduction to Machine Learning concepts and terminology
+- [x] Introduction to Machine Learning concepts and terminology
+- [x] ML practice: classification, regression, clustering
+- [x] ML concept mini project (practice-focused)
 - [ ] Scikit-learn basics and ML workflows
 - [ ] Data preprocessing and feature engineering techniques
 
-*Week 2 Status*: 14.2% Complete (1/7 days)
+*Week 2 Status*: 28.5% Complete (2/7 days)
 
 ### Week 3-4 (Days 15-28): Core Machine Learning
 - [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
@@ -219,11 +243,12 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Export and documentation capabilities
 - [x] Multi-dimensional data presentation
 
+
 ### Technical Skills
 *Machine Learning* (Starting Week 2)
 - [x] Supervised learning algorithms
-- [ ] Unsupervised learning techniques
-- [ ] Model evaluation and selection
+- [x] Unsupervised learning techniques
+- [x] Model evaluation and selection (basic)
 - [ ] Feature engineering and selection
 - [ ] Hyperparameter tuning
 - [ ] Cross-validation techniques
@@ -251,6 +276,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Statistical reasoning and data interpretation
 - [x] Project organization and workflow management
 - [x] Professional presentation of results
+- [x] Simplifying and refactoring code for clarity
 - [ ] Code review and collaboration practices
 - [ ] Technical communication to stakeholders
 - [ ] Project management and timeline adherence
@@ -300,7 +326,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 ----
 
-Last Updated: Day 8 (September 15, 2025)  
-Next Update: Day 9 - Introduction to Machine Learning
+Last Updated: Day 9 (September 16, 2025)  
+Next Update: Day 10 - Scikit-learn Deep Dive
 
 ---
