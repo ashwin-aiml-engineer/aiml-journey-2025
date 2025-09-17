@@ -10,28 +10,6 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 
 ## 📅 Daily Progress Log
-### Day 9 (September 16, 2025) ✅
-*Topics Covered:*
-- Introduction to Machine Learning concepts and terminology
-- Types of ML: supervised, unsupervised, reinforcement
-- ML workflow and project lifecycle
-- Hands-on: Classification, Regression, Clustering (scikit-learn)
-- ML concept mini project: practical, simplified code
-
-*Projects:* [ML Introduction Practice](Week_02/day_09_ml_introduction.py) • [ML Concept Mini Project](Week_02/day_09_ml_concept_mini_project.py)
-
-*Key Learnings:*
-- Identified ML problem types and workflows
-- Implemented and evaluated basic ML models (classification, regression, clustering)
-- Practiced with scikit-learn for real ML tasks
-- Understood the difference between problem types and model selection
-- Simplified code for hands-on learning and clarity
-
-*Tomorrow's Plan:*
-- Scikit-learn deep dive and advanced model evaluation
-- Feature engineering and preprocessing
-- Building a complete ML pipeline
-
 ### Day 1 (September 8, 2025) ✅
 *Topics Covered:*
 - Python installation and environment setup
@@ -127,24 +105,77 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Performance optimization techniques for ML workloads
 - Advanced caching strategies and resource management
 
-*Tomorrow's Plan:*
+### Day 9 (September 16, 2025) ✅
+*Topics Covered:*
 - Introduction to Machine Learning concepts and terminology
-- ML problem types and workflows
-- Setting up scikit-learn environment
-- First ML model implementation
+- Types of ML: supervised, unsupervised, reinforcement
+- ML workflow and project lifecycle
+- Hands-on: Classification, Regression, Clustering (scikit-learn)
+- ML concept mini project: practical, simplified code
+
+*Projects:* [ML Introduction Practice](Week_02/day_09_ml_introduction.py) • [ML Concept Mini Project](Week_02/day_09_ml_concept_mini_project.py)
+
+*Key Learnings:*
+- Identified ML problem types and workflows
+- Implemented and evaluated basic ML models (classification, regression, clustering)
+- Practiced with scikit-learn for real ML tasks
+- Understood the difference between problem types and model selection
+- Simplified code for hands-on learning and clarity
+
+*Tomorrow's Plan:*
+- Scikit-learn deep dive and advanced model evaluation
+- Feature engineering and preprocessing
+- Building a complete ML pipeline
+
+### Day 10 (September 17, 2025) ✅
+*Topics Covered:*
+- Scikit-learn ecosystem overview: architecture, modules, API patterns
+- Estimator, transformer, predictor interfaces
+- Integration with NumPy, Pandas, Matplotlib
+- Advanced data preprocessing: StandardScaler, MinMaxScaler, RobustScaler, - - OneHotEncoder, LabelEncoder
+- Feature selection: SelectKBest, RFE
+- Pipeline creation and management
+- Custom transformers and preprocessing steps
+- Model selection and evaluation: train/validation/test split,cross-validation (KFold, StratifiedKFold, LeaveOneOut)
+- Grid search and random search for hyperparameters
+- Model evaluation metrics: accuracy, MSE, classification report, learning/validation curves
+- Classification algorithms: Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes
+- Regression algorithms: Linear Regression, Ridge, Lasso, Elastic Net, Polynomial Features
+- Clustering algorithms: K-Means, Hierarchical, DBSCAN, Gaussian Mixture Models
+- Dimensionality reduction: PCA, t-SNE, feature selection vs extraction
+- Model interpretation: feature importance, coefficients, permutation importance, SHAP values
+
+*Projects:*  
+[Python for ML Daily Practice](Week_02/day_10_python_for_ml.py) •  
+[Python for ML Interview Questions](Week_02/day_10_python_for_ml_interview_questions.py) •  
+[Python for ML Mini Project](Week_02/day_10_python_for_ml_mini_project.py) •  
+[Scikit-learn Mastery](Week_02/day_10_scikit_learn_mastery.py) •  
+[ML Algorithm Comparison Project](Week_02/day_10_ml_algorithm_comparison.py)
+
+*Key Learnings:*
+- Mastered Scikit-learn API and advanced ML techniques
+- Practiced feature engineering, preprocessing, and pipeline creation
+- Compared multiple ML algorithms and evaluated performance
+- Visualized feature importances and interpreted model results
+- Built production-ready ML pipelines and simulated prediction APIs
+
+*Tomorrow's Plan:*
+- Deep dive into neural networks and deep learning
+- Implementing basic neural architectures with Keras/TensorFlow
+- Model training, evaluation, and deployment best practices
 
 ## 🛠 Tech Stack
 - *Language*: Python 3.13
 - *IDE*: VS Code with extensions
-- *Core Libraries*: NumPy, Pandas, Matplotlib, Seaborn
+- *Core Libraries*: NumPy, Pandas, Matplotlib, Seaborn , Scikit-Learn
 - *Visualization*: Statistical plots, dashboards, business intelligence
 - *Version Control*: Git & GitHub
 - *AI Assistant*: GitHub Copilot
 
 ## 📊 Progress Tracking
-- *Days Completed*: 9/90
-- *Completion*: 10.0%
-- *Streak*: 9 consecutive days ✅
+- *Days Completed*: 10/90
+- *Completion*: 11.1%
+- *Streak*: 10 consecutive days ✅
 
 ## 🎯 Weekly Milestones
 
@@ -164,10 +195,10 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Introduction to Machine Learning concepts and terminology
 - [x] ML practice: classification, regression, clustering
 - [x] ML concept mini project (practice-focused)
-- [ ] Scikit-learn basics and ML workflows
-- [ ] Data preprocessing and feature engineering techniques
+- [x] Scikit-learn basics and ML workflows
+- [x] Data preprocessing and feature engineering techniques
 
-*Week 2 Status*: 28.5% Complete (2/7 days)
+*Week 2 Status*: 42.8% Complete (3/7 days)
 
 ### Week 3-4 (Days 15-28): Core Machine Learning
 - [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
@@ -249,9 +280,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Supervised learning algorithms
 - [x] Unsupervised learning techniques
 - [x] Model evaluation and selection (basic)
-- [ ] Feature engineering and selection
-- [ ] Hyperparameter tuning
-- [ ] Cross-validation techniques
+- [x] Feature engineering and selection
+- [x] Hyperparameter tuning
+- [x] Cross-validation techniques
 
 *Deep Learning* (Starting Week 5)
 - [ ] Neural network fundamentals
@@ -284,7 +315,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 ## 💼 Career Preparation Progress
 
 ### Portfolio Development ✅
-- [x] GitHub repository with daily commits (6-day streak)
+- [x] GitHub repository with daily commits (10-day streak)
 - [x] Professional README documentation
 - [x] High-quality code organization and comments
 - [x] Comprehensive project documentation
@@ -326,7 +357,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 ----
 
-Last Updated: Day 9 (September 16, 2025)  
-Next Update: Day 10 - Scikit-learn Deep Dive
+Last Updated: Day 10 (September 17, 2025)  
+Next Update: Day 11 - Neural Networks & Deep Learning
 
 ---
