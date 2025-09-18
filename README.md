@@ -16,7 +16,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Variables, data types, and operators
 - Input/output operations and string manipulation
 
-*Projects:* [Python Basics](week_01/day_01_basics.py) • [Personal Information Manager](week_01/day_01_mini_project.py)
+*Projects:* 
+[Python Basics](week_01/day_01_basics.py) • 
+[Personal Information Manager](week_01/day_01_mini_project.py)
 
 *Key Learnings:* Development environment setup, Python syntax fundamentals, problem-solving approach
 
@@ -26,7 +28,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Functions and scope
 - Debugging techniques and code organization
 
-*Projects:* [Control Flow & Functions](week_01/day_02_control_functions.py) • [Advanced Calculator](week_01/day_02_mini_project.py)
+*Projects:* 
+[Control Flow & Functions](week_01/day_02_control_functions.py) • 
+[Advanced Calculator](week_01/day_02_mini_project.py)
 
 *Key Learnings:* Program flow control, function design, clean code practices
 
@@ -37,7 +41,10 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - File handling and exception management
 - Modules and packages
 
-*Projects:* [OOP Implementation](week_01/day_03_oop.py) • [File Operations](week_01/day_03_file_handling.py) • [Library Management System](week_01/day_03_mini_project.py)
+*Projects:* 
+[OOP Implementation](week_01/day_03_oop.py) • 
+[File Operations](week_01/day_03_file_handling.py) • 
+[Library Management System](week_01/day_03_mini_project.py)
 
 *Key Learnings:* OOP principles, robust error handling, scalable application architecture
 
@@ -48,7 +55,11 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Basic algorithms and complexity analysis
 - Performance optimization techniques
 
-*Projects:* [Data Structures](week_01/day_04_data_structures.py) • [List Comprehensions](week_01/day_04_list_comprehensions.py) • [Algorithms & Complexity](week_01/day_04_algorithms_complexity.py) • [Smart Data Analysis System](week_01/day_04_mini_project.py)
+*Projects:* 
+[Data Structures](week_01/day_04_data_structures.py) • 
+[List Comprehensions](week_01/day_04_list_comprehensions.py) • 
+[Algorithms & Complexity](week_01/day_04_algorithms_complexity.py) • 
+[Smart Data Analysis System](week_01/day_04_mini_project.py)
 
 *Key Learnings:* Efficient data manipulation, Big O notation, algorithm optimization
 
@@ -59,7 +70,11 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Data loading, cleaning, and statistical analysis
 - ML preprocessing workflows
 
-*Projects:* [NumPy Fundamentals](week_01/day_05_numpy_fundamentals.py) • [Pandas Basics](week_01/day_05_pandas_basics.py) • [Data Workflows](week_01/day_05_data_workflows.py) • [Student Performance Analyzer](week_01/day_05_mini_project.py)
+*Projects:* 
+[NumPy Fundamentals](week_01/day_05_numpy_fundamentals.py) • 
+[Pandas Basics](week_01/day_05_pandas_basics.py) • 
+[Data Workflows](week_01/day_05_data_workflows.py) • 
+[Student Performance Analyzer](week_01/day_05_mini_project.py)
 
 *Key Learnings:* Numerical computing, professional data workflows, statistical validation
 
@@ -70,7 +85,10 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Dashboard design and business intelligence
 - Professional styling and export capabilities
 
-*Projects:* [Matplotlib Fundamentals](week_01/day_06_matplotlib_fundamentals.py) • [Seaborn Advanced](week_01/day_06_seaborn_advanced.py) • [Sales Analytics Dashboard](week_01/day_06_mini_project.py)
+*Projects:*
+[Matplotlib Fundamentals](week_01/day_06_matplotlib_fundamentals.py) •
+[Seaborn Advanced](week_01/day_06_seaborn_advanced.py) • 
+[Sales Analytics Dashboard](week_01/day_06_mini_project.py)
 
 *Key Learnings:* Publication-ready visualizations, BI dashboards, data storytelling
 
@@ -113,7 +131,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Hands-on: Classification, Regression, Clustering (scikit-learn)
 - ML concept mini project: practical, simplified code
 
-*Projects:* [ML Introduction Practice](Week_02/day_09_ml_introduction.py) • [ML Concept Mini Project](Week_02/day_09_ml_concept_mini_project.py)
+*Projects:*
+[ML Introduction Practice](Week_02/day_09_ml_introduction.py) • 
+[ML Concept Mini Project](Week_02/day_09_ml_concept_mini_project.py)
 
 *Key Learnings:*
 - Identified ML problem types and workflows
@@ -159,6 +179,21 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Visualized feature importances and interpreted model results
 - Built production-ready ML pipelines and simulated prediction APIs
 
+### Day 11 (September 18, 2025) ✅
+*Topics Covered:*
+- Data preprocessing mastery: imputation, outlier handling, scaling, encoding, feature selection, engineering, pipeline construction, cross-validation, data leakage prevention
+- Feature engineering system: intelligent data cleaning, smart scaling, advanced encoding, feature selection optimizer, complete preprocessing pipeline, feature engineering laboratory
+
+*Projects:*  
+[Data Preprocessing Mastery](Week_02/day_11_data_preprocessing_mastery.py)  
+[Feature Engineering System](Week_02/day_11_feature_engineering_system/day_11_feature_engineering_system.py)
+
+*Key Learnings:*
+- Practiced essential data preprocessing techniques for AIML interviews and business use
+- Built and tested feature engineering system with automated cleaning, scaling, encoding, selection, and engineering
+- Developed repeatable ML workflows and pipelines
+- Improved understanding of data quality, memory optimization, and feature creation
+
 *Tomorrow's Plan:*
 - Deep dive into neural networks and deep learning
 - Implementing basic neural architectures with Keras/TensorFlow
@@ -173,9 +208,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - *AI Assistant*: GitHub Copilot
 
 ## 📊 Progress Tracking
-- *Days Completed*: 10/90
-- *Completion*: 11.1%
-- *Streak*: 10 consecutive days ✅
+- *Days Completed*: 11/90
+- *Completion*: 12.2%
+- *Streak*: 11 consecutive days ✅
 
 ## 🎯 Weekly Milestones
 
@@ -198,7 +233,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Scikit-learn basics and ML workflows
 - [x] Data preprocessing and feature engineering techniques
 
-*Week 2 Status*: 42.8% Complete (3/7 days)
+*Week 2 Status*: 57.1% Complete (4/7 days)
 
 ### Week 3-4 (Days 15-28): Core Machine Learning
 - [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
@@ -325,16 +360,6 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [ ] Technical blog posts
 - [ ] Open source contributions
 
-### Skills Verification ✅
-*Week 1 Mastery Checklist:*
-- [x] Python programming proficiency
-- [x] Data manipulation with Pandas/NumPy
-- [x] Statistical analysis capabilities
-- [x] Professional visualization skills
-- [x] Business intelligence dashboard creation
-- [x] Project documentation and presentation
-- [x] Problem-solving and analytical thinking
-
 ## 🔗 Resources & Learning Materials
 
 ### Primary Learning Sources
@@ -355,9 +380,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - **LinkedIn**: [https://www.linkedin.com/in/ashwin-shetty-73437a244/]
 - **GitHub**: [https://github.com/ashwin-aiml-engineer/aiml-journey-2025.git]
 
-----
-
-Last Updated: Day 10 (September 17, 2025)  
-Next Update: Day 11 - Neural Networks & Deep Learning
-
+---
+Last Updated: Day 11 (September 18, 2025)  
+Next Update: Day 12 - Neural Networks & Deep Learning
 ---
