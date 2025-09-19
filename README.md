@@ -194,10 +194,32 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Developed repeatable ML workflows and pipelines
 - Improved understanding of data quality, memory optimization, and feature creation
 
+### Day 12 (September 19, 2025) ✅
+*Topics Covered:*
+- Linear regression mathematical foundations: OLS, cost function, gradient descent, normal equation, assumptions, residual analysis, R-squared, statistical significance, confidence intervals
+- Multiple linear regression: multicollinearity, VIF, interaction terms, polynomial regression, model selection (AIC/BIC), cross-validation
+- Regularized regression: Ridge, Lasso, ElasticNet, parameter tuning, feature selection, bias-variance tradeoff
+- Logistic regression: sigmoid, odds ratio, MLE, decision boundary, metrics, ROC/AUC, threshold optimization
+- Advanced logistic regression: multinomial, ordinal, regularization, class imbalance, cost-sensitive learning, calibration, feature importance
+- Model diagnostics: residuals, homoscedasticity, normality, outliers, Cook's distance, cross-validation, learning/validation curves
+- Advanced regression: robust, quantile, Bayesian, non-linear, GLM, logit/probit, survival, time series regression
+- Feature engineering for regression: polynomial features, interaction terms, transformations, encoding, binning, splines, selection
+
+*Projects:*  
+[Regression Mastery Practice](Week_02/day_12_regression_mastery.py)  
+[Regression Analysis System](Week_02/day_12_regression_analysis_system.py)
+
+*Key Learnings:*
+- Practiced core and advanced regression techniques for AIML interviews and business use
+- Built and tested comprehensive regression analysis system with diagnostics, regularization, model comparison, feature engineering, and deployment simulation
+- Improved understanding of regression assumptions, model selection, and validation strategies
+- Developed repeatable workflows for regression modeling and analysis
+
 *Tomorrow's Plan:*
 - Deep dive into neural networks and deep learning
 - Implementing basic neural architectures with Keras/TensorFlow
 - Model training, evaluation, and deployment best practices
+
 
 ## 🛠 Tech Stack
 - *Language*: Python 3.13
@@ -208,9 +230,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - *AI Assistant*: GitHub Copilot
 
 ## 📊 Progress Tracking
-- *Days Completed*: 11/90
-- *Completion*: 12.2%
-- *Streak*: 11 consecutive days ✅
+- *Days Completed*: 12/90
+- *Completion*: 13.3%
+- *Streak*: 12 consecutive days ✅
 
 ## 🎯 Weekly Milestones
 
@@ -233,7 +255,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] Scikit-learn basics and ML workflows
 - [x] Data preprocessing and feature engineering techniques
 
-*Week 2 Status*: 57.1% Complete (4/7 days)
+*Week 2 Status*: 71.4% Complete (5/7 days)
 
 ### Week 3-4 (Days 15-28): Core Machine Learning
 - [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
@@ -244,7 +266,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 ### Week 5-8 (Days 29-56): Deep Learning & Specialized Topics
 - [ ] Neural networks fundamentals and backpropagation
 - [ ] Deep learning frameworks (TensorFlow/PyTorch)
-- [ ] Computer vision basics (CNNs, image processing)
+- [ ] Computer viion basics (CNNs, image processing)
 - [ ] Natural language processing (RNNs, LSTMs, transformers)
 
 ### Week 9-12 (Days 57-84): Advanced Topics & MLOps
@@ -380,7 +402,6 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - **LinkedIn**: [https://www.linkedin.com/in/ashwin-shetty-73437a244/]
 - **GitHub**: [https://github.com/ashwin-aiml-engineer/aiml-journey-2025.git]
 
----
-Last Updated: Day 11 (September 18, 2025)  
-Next Update: Day 12 - Neural Networks & Deep Learning
----
+
+Last Updated: Day 12 (September 19, 2025)  
+Next Update: Day 13 - Neural Networks & Deep Learning
