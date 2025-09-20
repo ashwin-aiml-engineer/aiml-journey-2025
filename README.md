@@ -215,11 +215,31 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - Improved understanding of regression assumptions, model selection, and validation strategies
 - Developed repeatable workflows for regression modeling and analysis
 
+### Day 13 (September 20, 2025) ✅
+*Topics Covered:*
+- Decision tree fundamentals: tree structure, information gain, entropy, Gini impurity, ID3/C4.5/CART algorithms, recursive binary splitting, stopping criteria, pruning techniques
+- Decision tree construction: feature selection, continuous/categorical handling, missing values, complexity control, cost complexity pruning, visualization
+- Decision tree advantages/limitations: interpretability, non-linear relationships, overfitting, instability, bias analysis
+- Random Forest fundamentals: bootstrap aggregating, random feature selection, OOB error, ensemble prediction, variance reduction, feature importance
+- Advanced Random Forest: n_estimators optimization, max features tuning, class weights, proximity matrices, partial dependence plots
+- Gradient boosting fundamentals: sequential learning, weak learners, gradient descent, residual fitting, learning rate, regularization, early stopping
+- Advanced boosting algorithms: AdaBoost, GBM, XGBoost, LightGBM, CatBoost, stochastic boosting, regularization parameters
+- Ensemble method comparison: bagging vs boosting, bias-variance tradeoff, voting classifiers, stacking, blending, diversity importance
+
+*Projects:*  
+[Trees and Ensembles Practice](Week_02/day_13_trees_and_ensembles/day_13_trees_and_ensembles.py)  
+[Ensemble Learning System](Week_02/day_13_trees_and_ensembles/day_13_ensemble_learning_system.py)
+
+*Key Learnings:*
+- Practiced decision trees, Random Forest, and gradient boosting for AIML interviews and business use
+- Built and tested comprehensive ensemble learning system with automated optimization, comparison, feature selection, and deployment
+- Improved understanding of ensemble methods, hyperparameter tuning, and model combination strategies
+- Developed repeatable workflows for tree-based modeling and ensemble construction
+
 *Tomorrow's Plan:*
 - Deep dive into neural networks and deep learning
 - Implementing basic neural architectures with Keras/TensorFlow
 - Model training, evaluation, and deployment best practices
-
 
 ## 🛠 Tech Stack
 - *Language*: Python 3.13
@@ -230,9 +250,9 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - *AI Assistant*: GitHub Copilot
 
 ## 📊 Progress Tracking
-- *Days Completed*: 12/90
-- *Completion*: 13.3%
-- *Streak*: 12 consecutive days ✅
+- *Days Completed*: 13/90
+- *Completion*: 14.4%
+- *Streak*: 13 consecutive days ✅
 
 ## 🎯 Weekly Milestones
 
@@ -254,8 +274,10 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - [x] ML concept mini project (practice-focused)
 - [x] Scikit-learn basics and ML workflows
 - [x] Data preprocessing and feature engineering techniques
+- [x] Regression mastery & analysis system (Day 12)
+- [x] Trees and ensembles mastery (Day 13)
 
-*Week 2 Status*: 71.4% Complete (5/7 days)
+*Week 2 Status*: 85.7% Complete (6/7 days)
 
 ### Week 3-4 (Days 15-28): Core Machine Learning
 - [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
@@ -402,6 +424,7 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - **LinkedIn**: [https://www.linkedin.com/in/ashwin-shetty-73437a244/]
 - **GitHub**: [https://github.com/ashwin-aiml-engineer/aiml-journey-2025.git]
 
-
-Last Updated: Day 12 (September 19, 2025)  
-Next Update: Day 13 - Neural Networks & Deep Learning
+---
+Last Updated: Day 13 (September 20, 2025)  
+Next Update: Day 14 - Neural Networks & Deep Learning
+---
