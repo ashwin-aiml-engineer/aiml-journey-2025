@@ -217,85 +217,99 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 ### Day 13 (September 20, 2025) ✅
 *Topics Covered:*
-- Decision tree fundamentals: tree structure, information gain, entropy, Gini impurity, ID3/C4.5/CART algorithms, recursive binary splitting, stopping criteria, pruning techniques
-- Decision tree construction: feature selection, continuous/categorical handling, missing values, complexity control, cost complexity pruning, visualization
-- Decision tree advantages/limitations: interpretability, non-linear relationships, overfitting, instability, bias analysis
-- Random Forest fundamentals: bootstrap aggregating, random feature selection, OOB error, ensemble prediction, variance reduction, feature importance
-- Advanced Random Forest: n_estimators optimization, max features tuning, class weights, proximity matrices, partial dependence plots
-- Gradient boosting fundamentals: sequential learning, weak learners, gradient descent, residual fitting, learning rate, regularization, early stopping
-- Advanced boosting algorithms: AdaBoost, GBM, XGBoost, LightGBM, CatBoost, stochastic boosting, regularization parameters
-- Ensemble method comparison: bagging vs boosting, bias-variance tradeoff, voting classifiers, stacking, blending, diversity importance
+- Decision trees: splits, entropy, information gain, pruning, overfitting, tree visualization, feature importance
+- Random Forest: bagging, bootstrap sampling, out-of-bag score, hyperparameter tuning, feature importance, parallel processing
+- Gradient Boosting: AdaBoost, GBM, XGBoost, LightGBM, CatBoost, learning rate, early stopping, regularization
+- Ensemble methods: voting classifiers, stacking, blending, diversity measures, ensemble selection
+- Advanced ensemble techniques: feature selection with ensembles, calibration, uncertainty quantification
 
 *Projects:*  
-[Trees and Ensembles Practice](Week_02/day_13_trees_and_ensembles/day_13_trees_and_ensembles.py)  
-[Ensemble Learning System](Week_02/day_13_trees_and_ensembles/day_13_ensemble_learning_system.py)
+[Trees and Ensembles Complete System](Week_02/day_13_trees_and_ensembles/)
 
 *Key Learnings:*
-- Practiced decision trees, Random Forest, and gradient boosting for AIML interviews and business use
-- Built and tested comprehensive ensemble learning system with automated optimization, comparison, feature selection, and deployment
-- Improved understanding of ensemble methods, hyperparameter tuning, and model combination strategies
-- Developed repeatable workflows for tree-based modeling and ensemble construction
+- Mastered decision trees and ensemble methods for AIML interviews and business applications
+- Built comprehensive ensemble learning system with Random Forest, Gradient Boosting, and voting classifiers
+- Developed feature importance analysis and model comparison frameworks
+- Created production-ready ensemble pipelines with hyperparameter optimization
 
-*Tomorrow's Plan:*
-- Deep dive into neural networks and deep learning
-- Implementing basic neural architectures with Keras/TensorFlow
-- Model training, evaluation, and deployment best practices
+### Day 14 (September 21, 2025) ✅ *WEEK 2 PORTFOLIO PROJECT*
+*Topics Covered:*
+- Integration of all Week 2 concepts in a simple, practical project
+- Advanced Python patterns in ML context (decorators, generators)
+- Complete ML pipeline design and implementation
+- Model comparison and evaluation techniques
+- Feature importance analysis and interpretation
 
-## 🛠 Tech Stack
-- *Language*: Python 3.13
-- *IDE*: VS Code with extensions
-- *Core Libraries*: NumPy, Pandas, Matplotlib, Seaborn , Scikit-Learn
-- *Visualization*: Statistical plots, dashboards, business intelligence
-- *Version Control*: Git & GitHub
-- *AI Assistant*: GitHub Copilot
+*🌟 SIMPLE PORTFOLIO PROJECT:* [Week 2 ML Pipeline](Week_02/day_14_week2_simple_portfolio.py)
+- **Concise single file** demonstrating all Week 2 learning
+- Advanced Python: decorators for timing, generators for data
+- ML pipeline: preprocessing, training, evaluation
+- Multiple algorithms: Logistic Regression + Random Forest
+- Cross-validation and feature importance analysis
+- **Easy daily practice** - run and modify anytime!
 
-## 📊 Progress Tracking
-- *Days Completed*: 13/90
-- *Completion*: 14.4%
-- *Streak*: 13 consecutive days ✅
+*Key Learnings:*
+- Combined all Week 2 concepts in one practical, understandable project
+- Built reusable ML pipeline class with proper OOP design
+- Practiced model comparison and evaluation workflows
+- Applied advanced Python concepts in real ML context
+- Created tool for ongoing daily ML practice
 
-## 🎯 Weekly Milestones
-
-### Week 1 (Days 1-7): Python Fundamentals & Data Science Basics ✅
-- [x] Variables, operators, I/O (Day 1)
-- [x] Control structures, loops, functions (Day 2)
-- [x] OOP basics, file handling, exceptions (Day 3)
-- [x] Data structures and algorithms (Day 4)
-- [x] NumPy & Pandas fundamentals (Day 5)
-- [x] Data visualization with Matplotlib & Seaborn (Day 6)
-- [x] Week 1 portfolio project - Complete Data Science Application (Day 7)
-
-*Week 1 Status*: 100% Complete (7/7 days)
-
-### Week 2 (Days 8-14): Advanced Python & ML Introduction
-- [x] Advanced Python concepts (decorators, generators, context managers)
-- [x] Introduction to Machine Learning concepts and terminology
-- [x] ML practice: classification, regression, clustering
-- [x] ML concept mini project (practice-focused)
-- [x] Scikit-learn basics and ML workflows
-- [x] Data preprocessing and feature engineering techniques
+### Week 2 (Days 8-14): Advanced Python & ML Introduction ✅
+- [x] Advanced Python concepts (decorators, generators, context managers) (Day 8)
+- [x] Introduction to Machine Learning concepts and terminology (Day 9)
+- [x] Scikit-learn mastery and ML workflows (Day 10)
+- [x] Data preprocessing and feature engineering mastery (Day 11)
 - [x] Regression mastery & analysis system (Day 12)
 - [x] Trees and ensembles mastery (Day 13)
+- [x] Week 2 Portfolio: Simple ML Pipeline (Day 14)
 
-*Week 2 Status*: 85.7% Complete (6/7 days)
+*Week 2 Status*: 100% Complete (7/7 days) ✅
 
-### Week 3-4 (Days 15-28): Core Machine Learning
-- [ ] Supervised learning algorithms (Linear/Logistic Regression, Decision Trees)
-- [ ] Classification algorithms (SVM, Random Forest, Naive Bayes)
-- [ ] Unsupervised learning (K-Means, PCA, Clustering)
-- [ ] Model evaluation, validation, and hyperparameter tuning
+### Week 3 (Days 15-21): MLOps Integration & Advanced ML ✨
+- [ ] Advanced Classification (SVM, KNN, Naive Bayes) + API Integration (Day 15)
+- [ ] Clustering & Dimensionality Reduction + Docker Mastery (Day 16) 
+- [ ] Model Evaluation & Hyperparameter Tuning + Model Serving (Day 17)
+- [ ] Time Series Analysis + Streamlit Applications (Day 18)
+- [ ] MLOps Fundamentals - CI/CD for ML (Day 19)
+- [ ] Model Deployment Strategies - Local vs Cloud (Day 20)
+- [ ] Week 3 Portfolio: Complete ML Pipeline with API + Docker (Day 21)
 
-### Week 5-8 (Days 29-56): Deep Learning & Specialized Topics
-- [ ] Neural networks fundamentals and backpropagation
-- [ ] Deep learning frameworks (TensorFlow/PyTorch)
-- [ ] Computer viion basics (CNNs, image processing)
-- [ ] Natural language processing (RNNs, LSTMs, transformers)
+### Week 4 (Days 22-28): Production Readiness & Deep Learning Intro
+- [ ] Introduction to Deep Learning + Model Optimization (Day 22)
+- [ ] Neural Networks + Quantization Techniques (Day 23)
+- [ ] Computer Vision Basics + Local Deployment (Day 24)
+- [ ] Hugging Face Ecosystem - Pre-trained Models (Day 25)
+- [ ] Model Fine-tuning - Custom Adaptations (Day 26)
+- [ ] Gradio Applications - Client Demos (Day 27)
+- [ ] Month 1 Capstone: Production ML Application (Day 28)
 
-### Week 9-12 (Days 57-84): Advanced Topics & MLOps
-- [ ] Advanced ML algorithms and ensemble methods
-- [ ] MLOps and model deployment strategies
-- [ ] Cloud platforms (AWS/Azure/GCP) for ML
+### Week 5-6 (Days 29-42): Advanced MLOps & Model Serving
+- [ ] Advanced Model Serving with FastAPI and Docker Compose
+- [ ] Model Monitoring and drift detection
+- [ ] A/B Testing for ML models  
+- [ ] Model Versioning and experiment tracking
+- [ ] Local AI Solutions for businesses
+- [ ] Client-facing Applications development
+- [ ] Production ML Pipeline optimization
+
+### Week 7-8 (Days 43-56): Local AI Specialization & Business Focus
+- [ ] Open-source Model Mastery (Llama, Mistral, etc.)
+- [ ] Model Quantization and optimization for local hardware
+- [ ] Fine-tuning Workflows for business-specific needs
+- [ ] Offline AI Applications development
+- [ ] Performance Optimization for consumer hardware
+- [ ] Business AI Integration strategies
+- [ ] Client Presentation and demo skills
+
+### Week 9-12 (Days 57-84): Advanced AI & Business Solutions
+- [ ] Advanced Deep Learning architectures
+- [ ] Custom AI Solution development
+- [ ] Enterprise ML deployment strategies
+- [ ] Advanced model optimization techniques
+- [ ] Cloud platforms integration (AWS/Azure/GCP)
 - [ ] Advanced projects and real-world applications
+- [ ] Local AI Business implementation
 
 ### Week 13 (Days 85-90): Final Projects
 - [ ] Capstone project development
@@ -304,21 +318,21 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 ## 🏆 Major Projects Timeline
 
 ### Foundation Projects (Days 1-30)
-1. *Python Fundamentals Showcase* (Day 7) - Completed
-2. *Data Analysis Dashboard* (Day 14) - In progress
-3. *Machine Learning Basics* (Day 21)
-4. *Advanced Data Processing* (Day 28)
+1. *Python Fundamentals Showcase* (Day 7) - Completed ✅
+2. *Simple ML Pipeline* (Day 14) - Completed ✅
+3. *Complete ML Service with API + Docker* (Day 21)
+4. *Production ML Application* (Day 28)
 
-### Intermediate Projects (Days 31-60)
-5. *Computer Vision Application* (Day 35)
-6. *Natural Language Processing Tool* (Day 42)
-7. *Web Application with ML Backend* (Day 49)
-8. *Real-time Data Processing System* (Day 56)
+### MLOps Projects (Days 31-60)
+5. *Advanced Model Serving System* (Day 35)
+6. *Local AI Business Solution* (Day 42)
+7. *Optimized ML Pipeline for Production* (Day 49)
+8. *Client-Ready AI Application* (Day 56)
 
 ### Advanced Projects (Days 61-90)
-9. *End-to-end ML Pipeline* (Day 63)
+9. *Enterprise AI Solution* (Day 63)
 10. *Cloud-deployed AI Application* (Day 70)
-11. *Industry-specific AI Solution* (Day 77)
+11. *Custom AI Solution for Business* (Day 77)
 12. *Final Capstone Project* (Day 84-90)
 
 ## 📈 Skills Development Roadmap
@@ -355,29 +369,36 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 
 
 ### Technical Skills
-*Machine Learning* (Starting Week 2)
+*Machine Learning & MLOps* (Week 2-4)
 - [x] Supervised learning algorithms
-- [x] Unsupervised learning techniques
+- [x] Unsupervised learning techniques  
 - [x] Model evaluation and selection (basic)
 - [x] Feature engineering and selection
 - [x] Hyperparameter tuning
 - [x] Cross-validation techniques
-
-*Deep Learning* (Starting Week 5)
-- [ ] Neural network fundamentals
-- [ ] TensorFlow/Keras
-- [ ] PyTorch basics
-- [ ] Computer vision (CNN)
-- [ ] Natural language processing (RNN/LSTM)
-- [ ] Transfer learning
-
-*MLOps & Deployment* (Starting Week 9)
+- [ ] FastAPI for ML model serving
+- [ ] Docker containerization for ML
 - [ ] Model deployment strategies
-- [ ] Docker containerization
-- [ ] Cloud platforms (AWS/Azure)
-- [ ] CI/CD pipelines
-- [ ] Model monitoring
-- [ ] API development
+- [ ] MLOps fundamentals and CI/CD
+
+*Deep Learning & AI Applications* (Week 4-8)
+- [ ] Neural network fundamentals
+- [ ] TensorFlow/Keras basics
+- [ ] Computer vision (CNN) applications
+- [ ] Hugging Face ecosystem mastery
+- [ ] Model fine-tuning and optimization
+- [ ] Local AI deployment strategies
+- [ ] Quantization and performance optimization
+
+*Advanced MLOps & Business AI* (Week 5-12)
+- [ ] Advanced model serving and monitoring
+- [ ] A/B testing for ML models
+- [ ] Model versioning and experiment tracking
+- [ ] Local AI business solutions
+- [ ] Client-facing application development
+- [ ] Enterprise deployment strategies
+- [ ] Cloud platforms integration
+- [ ] Business AI consultation skills
 
 ### Soft Skills Demonstrated ✅
 - [x] Problem-solving approach and analytical thinking
@@ -425,6 +446,6 @@ Transform from Mechanical Engineering background to capable AI/ML Engineer.
 - **GitHub**: [https://github.com/ashwin-aiml-engineer/aiml-journey-2025.git]
 
 ---
-Last Updated: Day 13 (September 20, 2025)  
-Next Update: Day 14 - Neural Networks & Deep Learning
+Last Updated: Day 14 (September 21, 2025)  
+Next Update: Day 15 - Week 3 Planning
 ---
