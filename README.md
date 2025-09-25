@@ -1,9 +1,9 @@
 # 🚀 AI/ML Journey - 90 Day Transformation
 **From Mechanical Engineering to AI/ML Engineer**
 
-[![Progress](https://img.shields.io/badge/Progress-17%2F90%20Days-brightgreen?style=for-the-badge)]()
+[![Progress](https://img.shields.io/badge/Progress-18%2F90%20Days-brightgreen?style=for-the-badge)]()
 [![Week](https://img.shields.io/badge/Current%20Week-Week%203-blue?style=for-the-badge)]()
-[![Streak](https://img.shields.io/badge/Daily%20Streak-17%20Days-orange?style=for-the-badge)]()
+[![Streak](https://img.shields.io/badge/Daily%20Streak-18%20Days-orange?style=for-the-badge)]()
 
 **🎯 Goal:** Transform from Mechanical Engineering background to capable AI/ML Engineer  
 **📅 Timeline:** September 8, 2025 → December 7, 2025 (90 days)
@@ -16,19 +16,27 @@
 |------|------------|--------|------------|
 | **Week 1** | Python & Data Science Foundations | ✅ Complete | 7/7 days |
 | **Week 2** | Advanced Python & ML Introduction | ✅ Complete | 7/7 days |
-| **Week 3** | MLOps Integration & Advanced ML | 🔄 In Progress | 3/7 days |
+| **Week 3** | MLOps Integration & Advanced ML | 🔄 In Progress | 4/7 days |
 | **Week 4** | Production Readiness & Deep Learning | ⏳ Pending | 0/7 days |
 
 ### 🏆 Current Achievements
-- ✅ **17 consecutive days** of learning and coding
-- ✅ **15 major projects** completed with full documentation
-- ✅ **Production-ready skills:** FastAPI, Docker, ML Pipelines, Model Serving, Advanced Evaluation
+- ✅ **18 consecutive days** of learning and coding
+- ✅ **19 major projects** completed with full documentation
+- ✅ **Production-ready skills:** Time Series Analysis, Streamlit Apps, FastAPI, Docker, ML Pipelines, Model Serving
 - ✅ **Daily Practice System:** Core concepts (15 min) + Bonus advanced topics (25 min)
-- ✅ **3 portfolio projects** showcasing end-to-end capabilities
+- ✅ **4 portfolio projects** showcasing end-to-end capabilities
 
 ---
 
 ## 🔥 Recent Accomplishments
+
+### Day 18 (September 25, 2025) ✅ *TIME SERIES ANALYSIS + STREAMLIT APPLICATIONS*
+**🎯 Focus:** Time Series Forecasting & Interactive Web Apps
+- **Time Series Fundamentals:** Stationarity tests, decomposition, feature engineering, ARIMA-like forecasting, ML models
+- **Interactive Streamlit Dashboard:** Real-time model training, data visualization, file upload, parameter tuning
+- **ML Forecasting Integration:** Walk-forward validation, model comparison, future predictions
+- **Daily Practice Files:** [Time Series Analysis (198 lines)](Week_03/day_18_time_series_analysis.py) • [Streamlit Dashboard (194 lines)](Week_03/day_18_streamlit_dashboard.py) • [ML Forecasting System (218 lines)](Week_03/day_18_ml_forecasting_system.py)
+- **Bonus Advanced:** [Advanced Concepts (629 lines)](Week_03/day_18_bonus_advanced_concepts.py) - Prophet forecasting, advanced validation, ensemble methods, production deployment
 
 ### Day 17 (September 24, 2025) ✅ *ADVANCED MODEL EVALUATION + HYPERPARAMETER OPTIMIZATION + PRODUCTION SERVING*
 **🎯 Focus:** Production ML Systems & Optimization
@@ -94,8 +102,8 @@
 | Day 15 | Advanced Classification + API | SVM, KNN, FastAPI, production serving | ✅ Complete |
 | Day 16 | Clustering + Docker | K-Means, PCA, t-SNE, containerization | ✅ Complete |
 | Day 17 | Model Evaluation + Serving | Advanced evaluation, hyperparameter optimization, production serving | ✅ Complete |
-| Day 18 | Time Series + Streamlit | Time series analysis, web applications | ⏳ Next |
-| Day 19 | MLOps Fundamentals | CI/CD for ML, version control | ⏳ Pending |
+| Day 18 | Time Series + Streamlit | Time series analysis, web applications | ✅ Complete |
+| Day 19 | MLOps Fundamentals | CI/CD for ML, version control | ⏳ Next |
 | Day 20 | Deployment Strategies | Local vs Cloud, scaling | ⏳ Pending |
 | Day 21 | **Portfolio Project** | **Complete ML Pipeline + Docker** | ⏳ Pending |
 
@@ -164,6 +172,24 @@
 - **Tech Stack:** Docker, FastAPI, unsupervised learning
 - **Impact:** Production-ready containerized ML service
 
+#### **🔮 Time Series Analysis & Streamlit Dashboard** (Day 18)
+- **Scope:** Complete time series forecasting toolkit
+- **Features:** Stationarity tests, decomposition, ARIMA-like forecasting, ML models
+- **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit, Plotly
+- **Impact:** Interactive web applications for time series analysis
+
+#### **📊 ML Forecasting System** (Day 18)
+- **Scope:** Production-grade forecasting pipeline
+- **Features:** Walk-forward validation, model comparison, future predictions
+- **Tech Stack:** Scikit-learn, advanced time series techniques
+- **Impact:** Robust forecasting system with proper validation
+
+#### **🌟 Advanced Time Series Concepts** (Day 18)
+- **Scope:** Cutting-edge forecasting techniques
+- **Features:** Prophet forecasting, ensemble methods, production deployment patterns
+- **Tech Stack:** Prophet (optional), advanced validation, ensemble learning
+- **Impact:** Professional-grade time series analysis with deployment strategies
+
 #### **🎯 Advanced Model Evaluation System** (Day 17)
 - **Scope:** Production-grade model evaluation
 - **Features:** Cross-validation, learning curves, ROC analysis, feature importance
@@ -189,9 +215,9 @@
 - **Impact:** Deep understanding of production ML techniques
 
 ### 📚 Daily Practice System
-- **17 days** of consistent coding and learning
-- **15 core practice files** (15-minute daily sessions)
-- **4 bonus advanced files** (25-minute weekly deep dives)
+- **18 days** of consistent coding and learning
+- **19 core practice files** (15-minute daily sessions)
+- **5 bonus advanced files** (25-minute weekly deep dives)
 - **Dual-track learning:** Daily habits + Comprehensive coverage
 
 ---
@@ -233,7 +259,7 @@
 
 ---
 
-**🔄 Last Updated:** Day 16 (September 23, 2025)  
-**🎯 Next Milestone:** Day 17 - Model Evaluation & Hyperparameter Tuning + Model Serving
+**🔄 Last Updated:** Day 18 (September 25, 2025)  
+**🎯 Next Milestone:** Day 19 - MLOps Fundamentals & CI/CD for ML
 
 *Transforming from Mechanical Engineering to AI/ML Engineering - One day at a time! 🚀*
