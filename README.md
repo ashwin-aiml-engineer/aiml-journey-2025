@@ -32,27 +32,29 @@
 
 ### Day 19 (September 26, 2025) ✅ *MLOPS FUNDAMENTALS + CI/CD + VERSION CONTROL*
 **🎯 Focus:** Production ML Workflows & Team Collaboration
-- **MLOps Fundamentals:** Experiment tracking, model registry, lifecycle management (dev→staging→prod), automated deployment
-- **CI/CD for ML:** Automated testing (data quality, model performance, robustness), GitOps workflows, A/B testing, pipeline automation
-- **Version Control & Testing:** Git workflows with LFS, data versioning with hash-based tracking, ML testing framework, collaboration practices
-- **Daily Practice Files:** [MLOps Fundamentals (145 lines)](Week_03/day_19_mlops_fundamentals.py) • [CI/CD for ML (199 lines)](Week_03/day_19_cicd_for_ml.py) • [Version Control & Testing (240 lines)](Week_03/day_19_version_control_testing.py)
-- **Bonus Advanced:** [Advanced MLOps Concepts (521 lines)](Week_03/day_19_bonus_advanced_mlops.py) - Environment management, Infrastructure as Code, monitoring, auto-scaling, security, production readiness
 
+### Day 20 (September 27, 2025) ✅ *DEPLOYMENT STRATEGIES: LOCAL, CLOUD, PRODUCTION*
+**🎯 Focus:** End-to-end ML deployment patterns for real-world production
+- **Local Deployment:** FastAPI serving, edge computing simulation, offline-first ML, optimization, client/server inference
+- **Cloud Deployment:** Platform comparison (AWS, Azure, GCP), serverless ML, Kubernetes basics, cost optimization, multi-cloud deployment
+- **Production Deployment:** Blue-green, canary, shadow deployments, monitoring, security, multi-model serving, feature store, registry
+- **Daily Practice Files:** [Local Deployment Strategies](Week_03/day_20_local_deployment_strategies.py) • [Cloud Deployment Patterns](Week_03/day_20_cloud_deployment_patterns.py) • [Production Deployment System](Week_03/day_20_production_deployment_system.py)
+- **All files optimized for 15-minute hands-on practice covering every deployment concept.
 ### Day 18 (September 25, 2025) ✅ *TIME SERIES ANALYSIS + STREAMLIT APPLICATIONS*
 **🎯 Focus:** Time Series Forecasting & Interactive Web Apps
 - **Time Series Fundamentals:** Stationarity tests, decomposition, feature engineering, ARIMA-like forecasting, ML models
 - **Interactive Streamlit Dashboard:** Real-time model training, data visualization, file upload, parameter tuning
 - **ML Forecasting Integration:** Walk-forward validation, model comparison, future predictions
-- **Daily Practice Files:** [Time Series Analysis (198 lines)](Week_03/day_18_time_series_analysis.py) • [Streamlit Dashboard (194 lines)](Week_03/day_18_streamlit_dashboard.py) • [ML Forecasting System (218 lines)](Week_03/day_18_ml_forecasting_system.py)
-- **Bonus Advanced:** [Advanced Concepts (629 lines)](Week_03/day_18_bonus_advanced_concepts.py) - Prophet forecasting, advanced validation, ensemble methods, production deployment
+- **Daily Practice Files:** [Time Series Analysis](Week_03/day_18_time_series_analysis.py) • [Streamlit Dashboard](Week_03/day_18_streamlit_dashboard.py) • [ML Forecasting System](Week_03/day_18_ml_forecasting_system.py)
+- **Bonus Advanced:** [Advanced Concepts](Week_03/day_18_bonus_advanced_concepts.py) - Prophet forecasting, advanced validation, ensemble methods, production deployment
 
 ### Day 17 (September 24, 2025) ✅ *ADVANCED MODEL EVALUATION + HYPERPARAMETER OPTIMIZATION + PRODUCTION SERVING*
 **🎯 Focus:** Production ML Systems & Optimization
 - **Model Evaluation:** Cross-validation, learning curves, ROC analysis, feature importance
 - **Hyperparameter Optimization:** Grid Search, Random Search, parameter impact analysis
 - **Production Serving:** Model persistence, health checks, A/B testing, Docker deployment
-- **Daily Practice Files:** [Model Evaluation (98 lines)](Week_03/day_17_advanced_model_evaluation.py) • [Hyperparameter Optimization (111 lines)](Week_03/day_17_hyperparameter_optimization.py) • [Model Serving (189 lines)](Week_03/day_17_model_serving.py)
-- **Bonus Advanced:** [Complete Advanced Concepts (150 lines)](Week_03/day_17_bonus_advanced_concepts.py) - SHAP interpretability, Bayesian optimization, nested CV, model calibration
+- **Daily Practice Files:** [Model Evaluation](Week_03/day_17_advanced_model_evaluation.py) • [Hyperparameter Optimization](Week_03/day_17_hyperparameter_optimization.py) • [Model Serving](Week_03/day_17_model_serving.py)
+- **Bonus Advanced:** [Complete Advanced Concepts](Week_03/day_17_bonus_advanced_concepts.py) - SHAP interpretability, Bayesian optimization, nested CV, model calibration
 
 ### Day 16 (September 23, 2025) ✅ *CLUSTERING + DIMENSIONALITY REDUCTION + DOCKER*
 **🎯 Focus:** Unsupervised Learning & Containerization
@@ -295,7 +297,7 @@
 
 ---
 
-**🔄 Last Updated:** Day 18 (September 25, 2025)  
-**🎯 Next Milestone:** Day 19 - MLOps Fundamentals & CI/CD for ML
+**🔄 Last Updated:** Day 20 (27 September 2025)
+**🎯 Next Milestone:** Day 21(Week 3 portfolio project)
 
 *Transforming from Mechanical Engineering to AI/ML Engineering - One day at a time! 🚀*
