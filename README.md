@@ -1,9 +1,10 @@
 # 🚀 AI/ML Journey - 90 Day Transformation
 **From Mechanical Engineering to AI/ML Engineer**
 
-[![Progress](https://img.shields.io/badge/Progress-21%2F90%20Days-brightgreen?style=for-the-badge)]()
-[![Week](https://img.shields.io/badge/Current%20Week-Week%203-blue?style=for-the-badge)]()
-[![Streak](https://img.shields.io/badge/Daily%20Streak-21%20Days-orange?style=for-the-badge)]()
+
+[![Progress](https://img.shields.io/badge/Progress-22%2F90%20Days-brightgreen?style=for-the-badge)]()
+[![Week](https://img.shields.io/badge/Current%20Week-Week%204-blue?style=for-the-badge)]()
+[![Streak](https://img.shields.io/badge/Daily%20Streak-22%20Days-orange?style=for-the-badge)]()
 
 **🎯 Goal:** Transform from Mechanical Engineering background to capable AI/ML Engineer  
 **📅 Timeline:** September 8, 2025 → December 7, 2025 (90 days)
@@ -17,10 +18,10 @@
 | **Week 1** | Python & Data Science Foundations | ✅ Complete | 7/7 days |
 | **Week 2** | Advanced Python & ML Introduction | ✅ Complete | 7/7 days |
 | **Week 3** | MLOps Integration & Advanced ML | ✅ Complete | 7/7 days |
-| **Week 4** | Production Readiness & Deep Learning | ⏳ Pending | 0/7 days |
+| **Week 4** | Production Readiness & Deep Learning | ⏳ In Progress | 1/7 days |
 
 ### 🏆 Current Achievements
-- ✅ **19 consecutive days** of learning and coding
+- ✅ **22 consecutive days** of learning and coding
 - ✅ **22 major projects** completed with full documentation
 - ✅ **Production-ready skills:** MLOps Fundamentals, CI/CD for ML, Version Control, Time Series, Streamlit Apps, FastAPI, Docker
 - ✅ **Daily Practice System:** Optimized for true 15-minute core practice + 25-minute advanced deep dives
@@ -29,6 +30,15 @@
 ---
 
 ## 🔥 Recent Accomplishments
+
+### Day 22 (September 29, 2025) ✅ *DEEP LEARNING PIPELINE & MODEL OPTIMIZATION*
+**🎯 Focus:** Deep Learning with TensorFlow/Keras, Model Optimization Techniques
+- **Deep Learning Pipeline:** Built, trained, and evaluated a DNN using TensorFlow/Keras. Implemented best practices for layer creation and model saving formats.
+- **Model Optimization Suite:** Demonstrated manual weight pruning, float16 compression, and profiling for performance analysis.
+- **Practice Files:**
+	- [deep_learning_pipeline.py](Week_04/day_22_deep_learning/deep_learning_pipeline.py)
+	- [model_optimization_suite.py](Week_04/day_22_deep_learning/model_optimization_suite.py)
+**Result:** Established a foundation for deep learning and model optimization, ready for advanced neural network techniques in upcoming days.
 
 ### Day 21 (September 28, 2025) ✅ *WEEK 3 PORTFOLIO PROJECT: PRODUCTION-READY ML SERVICE PLATFORM*
 **🎯 Focus:** End-to-end ML pipeline, API, Docker, monitoring, deployment, and testing in a single, concise project
@@ -48,11 +58,11 @@
 	- Docker-ready for production simulation
 **Result:** Week 3 culminates in a production-grade, portfolio-worthy ML system demonstrating MLOps mastery!
 
-### Day 19 (September 26, 2025) ✅ *MLOPS FUNDAMENTALS + CI/CD + VERSION CONTROL*
-**🎯 Focus:** Production ML Workflows & Team Collaboration
-
 ### Day 20 (September 27, 2025) ✅ *DEPLOYMENT STRATEGIES: LOCAL, CLOUD, PRODUCTION*
 **🎯 Focus:** End-to-end ML deployment patterns for real-world production
+
+### Day 19 (September 26, 2025) ✅ *MLOPS FUNDAMENTALS + CI/CD + VERSION CONTROL*
+**🎯 Focus:** Production ML Workflows & Team Collaboration
 
 ### Day 18 (September 25, 2025) ✅ *TIME SERIES ANALYSIS + STREAMLIT APPLICATIONS*
 **🎯 Focus:** Time Series Forecasting & Interactive Web Apps
@@ -277,7 +287,7 @@
 ## 🎯 Upcoming Learning Path
 
 ### Week 4 (Days 22-28): Production Readiness & Deep Learning Intro
-- Introduction to Deep Learning + Model Optimization (Day 22)
+- Introduction to Deep Learning + Model Optimization (Day 22) ✅
 - Neural Networks + Quantization Techniques (Day 23)
 - Computer Vision Basics + Local Deployment (Day 24)
 - Hugging Face Ecosystem - Pre-trained Models (Day 25)
@@ -311,7 +321,7 @@
 
 ---
 
-**🔄 Last Updated:** Day 21 (September 28, 2025)  
-**🎯 Next Milestone:** Day 22 - Deep Learning & Model Optimization
+**🔄 Last Updated:** Day 22 (September 29, 2025)  
+**🎯 Next Milestone:** Day 23 - Neural Networks & Quantization Techniques
 
 *Transforming from Mechanical Engineering to AI/ML Engineering - One day at a time! 🚀*
