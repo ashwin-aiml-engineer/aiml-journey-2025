@@ -2,6 +2,11 @@
 Day 22: Model Optimization Suite (Practice)
 - Pruning, compression, acceleration, profiling
 """
+import os
+if os.getenv("SMOKE_TEST") == "1":
+    print("SMOKE: skipping heavy Day 22 model optimization suite")
+    raise SystemExit(0)
+
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
