@@ -1,0 +1,14 @@
+{
+  "typeCheckingMode": "basic",
+  "reportMissingTypeStubs": false,
+  "reportMissingImports": false,
+  "exclude": [
+    "logdir/**",
+    "data/**",
+    "data_splits/**",
+    "**/*.keras",
+    "**/*.tflite",
+    "**/*.onnx"
+  ],
+  "venvPath": ""
+}
