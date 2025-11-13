@@ -2,9 +2,9 @@
 **From Mechanical Engineering to AI/ML Engineer**
 
 
-[![Progress](https://img.shields.io/badge/Progress-22%2F90%20Days-brightgreen?style=for-the-badge)]()
-[![Week](https://img.shields.io/badge/Current%20Week-Week%204-blue?style=for-the-badge)]()
-[![Streak](https://img.shields.io/badge/Daily%20Streak-22%20Days-orange?style=for-the-badge)]()
+[![Progress](https://img.shields.io/badge/Progress-32%2F90%20Days-brightgreen?style=for-the-badge)]()
+[![Week](https://img.shields.io/badge/Current%20Week-Week%205-blue?style=for-the-badge)]()
+[![Streak](https://img.shields.io/badge/Daily%20Streak-32%20Days-orange?style=for-the-badge)]()
 
 **🎯 Goal:** Transform from Mechanical Engineering background to capable AI/ML Engineer  
 **📅 Timeline:** September 8, 2025 → December 7, 2025 (90 days)
@@ -18,7 +18,8 @@
 | **Week 1** | Python & Data Science Foundations | ✅ Complete | 7/7 days |
 | **Week 2** | Advanced Python & ML Introduction | ✅ Complete | 7/7 days |
 | **Week 3** | MLOps Integration & Advanced ML | ✅ Complete | 7/7 days |
-| **Week 4** | Production Readiness & Deep Learning | ⏳ In Progress | 1/7 days |
+| **Week 4** | Production Readiness & Deep Learning | ✅ In Progress | 7/7 days |
+| **Week 5** | Advanced MLOps & Model Serving | ⏳ In Progress | 3/7 days |
 
 ### 🏆 Current Achievements
 - ✅ **22 consecutive days** of learning and coding
@@ -39,6 +40,22 @@
 	- [deep_learning_pipeline.py](Week_04/day_22_deep_learning/deep_learning_pipeline.py)
 	- [model_optimization_suite.py](Week_04/day_22_deep_learning/model_optimization_suite.py)
 **Result:** Established a foundation for deep learning and model optimization, ready for advanced neural network techniques in upcoming days.
+
+### Days 23–32 (October → November, 2025) ✅ *NEURAL NETWORKS → VERSIONING & TRACKING*
+Brief summary of the content added through Day 32 (concise 15-minute practice files, demos, and exercises):
+
+- Day 23 — Neural Networks & Quantization: FFN skip connections, quantization fundamentals, compression techniques, practical tradeoffs. (Week_04/day_23_*)
+- Day 24 — Computer Vision: Conv demo, transfer learning stub, local webcam deploy notes and tflite/onnx stubs. (Week_04/day_24_*)
+- Day 25 — Hugging Face & Transformers: transformer fundamentals, tokenization, pipelines demo and inference patterns. (Week_04/day_25_*)
+- Day 26 — Fine-tuning Strategies: data prep, text classification examples, training config patterns. (Week_04/day_26_*)
+- Day 27 — Gradio Demos: basic interface examples, NLP/CV demos, deployment notes. (Week_04/day_27_*)
+- Day 28 — Capstone & Pipeline Integration: architecture notes, data pipelines, registry concepts. (Week_04/day_28_*)
+- Day 29 — Model Serving Patterns: FastAPI multi-model serving stub, caching (Redis) demo, request optimization notes. (Week_05/day_29_*)
+- Day 30 — Monitoring & Drift Detection: PSI, KS, Jensen-Shannon, Page-Hinkley, simple ADWIN, feature & prediction monitoring utilities, dashboard helpers. (Week_05/day_30_*)
+- Day 31 — A/B Testing & Bandits: sample size calculator, hash-based traffic splitting, epsilon-greedy and Thompson sampling sims, stat tests, CUPED demo. (Week_05/day_31_*)
+- Day 32 — Versioning & Experiment Tracking: MLflow quickstart (fallback prints), tiny JSON model registry, experiment logging (JSONL), DVC/W&B/Neptune notes, reproducibility guidance. (Week_05/day_32_*)
+
+All Day 23–32 files are concise, runnable stubs with safe fallbacks when heavy libraries are not installed, and include exercises/markdown indexes for classroom use.
 
 ### Day 21 (September 28, 2025) ✅ *WEEK 3 PORTFOLIO PROJECT: PRODUCTION-READY ML SERVICE PLATFORM*
 **🎯 Focus:** End-to-end ML pipeline, API, Docker, monitoring, deployment, and testing in a single, concise project
@@ -288,12 +305,19 @@
 
 ### Week 4 (Days 22-28): Production Readiness & Deep Learning Intro
 - Introduction to Deep Learning + Model Optimization (Day 22) ✅
-- Neural Networks + Quantization Techniques (Day 23)
-- Computer Vision Basics + Local Deployment (Day 24)
-- Hugging Face Ecosystem - Pre-trained Models (Day 25)
-- Model Fine-tuning - Custom Adaptations (Day 26)
-- Gradio Applications - Client Demos (Day 27)
-- Month 1 Capstone: Production ML Application (Day 28)
+- Neural Networks + Quantization Techniques (Day 23) ✅
+- Computer Vision Basics + Local Deployment (Day 24) ✅
+- Hugging Face Ecosystem - Pre-trained Models (Day 25) ✅
+- Model Fine-tuning - Custom Adaptations (Day 26) ✅
+- Gradio Applications - Client Demos (Day 27) ✅
+- Month 1 Capstone: Production ML Application (Day 28) ✅
+
+### Week 5 (Days 29-35): Advanced MLOps & Model Serving (in progress)
+- Model Serving with FastAPI, multi-model patterns (Day 29) ✅
+- Model Monitoring and drift detection (Day 30) ✅
+- A/B Testing & Bandits (Day 31) ✅
+- Model Versioning & Experiment Tracking (Day 32) ✅
+- Remaining days: packaging, DVC pipelines, and reproducibility deep dives (Days 33-35)
 
 ### Week 5-6 (Days 29-42): Advanced MLOps & Model Serving
 - Advanced Model Serving with FastAPI and Docker Compose
@@ -321,7 +345,7 @@
 
 ---
 
-**🔄 Last Updated:** Day 22 (September 29, 2025)  
-**🎯 Next Milestone:** Day 23 - Neural Networks & Quantization Techniques
+**🔄 Last Updated:** Day 32 (November 13, 2025)  
+**🎯 Next Milestone:** Day 33 - Packaging, DVC pipelines, and reproducibility deep dives
 
 *Transforming from Mechanical Engineering to AI/ML Engineering - One day at a time! 🚀*
