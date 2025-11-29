@@ -14,39 +14,14 @@
 [![Streak](https://img.shields.io/badge/Daily%20Streak-32%20Days-orange?style=for-the-badge)]()
 
 **🎯 Goal:** Transform from Mechanical Engineering background to capable AI/ML Engineer  
-**📅 Timeline:** September 8, 2025 → December 7, 2025 (90 days)
-
----
-
-## 📊 Quick Progress Overview
-
-| Week | Focus Area | Status | Completion |
-|------|------------|--------|------------|
-| **Week 1** | Python & Data Science Foundations | ✅ Complete | 7/7 days |
-| **Week 2** | Advanced Python & ML Introduction | ✅ Complete | 7/7 days |
-| **Week 3** | MLOps Integration & Advanced ML | ✅ Complete | 7/7 days |
-| **Week 4** | Production Readiness & Deep Learning | ✅ In Progress | 7/7 days |
-| **Week 5** | Advanced MLOps & Model Serving | ⏳ In Progress | 3/7 days |
-
-### 🏆 Current Achievements
-- ✅ **22 consecutive days** of learning and coding
-- ✅ **22 major projects** completed with full documentation
-- ✅ **Production-ready skills:** MLOps Fundamentals, CI/CD for ML, Version Control, Time Series, Streamlit Apps, FastAPI, Docker
-- ✅ **Daily Practice System:** Optimized for true 15-minute core practice + 25-minute advanced deep dives
-- ✅ **5 portfolio projects** showcasing end-to-end capabilities
-
----
+**📅 Timeline:** September 8, 2025 → December 31, 2025 (90 days)(27 extra days due to workstation faliure and upgrading)
 
 ## 🔥 Recent Accomplishments
-
-### Day 22 (September 29, 2025) ✅ *DEEP LEARNING PIPELINE & MODEL OPTIMIZATION*
-**🎯 Focus:** Deep Learning with TensorFlow/Keras, Model Optimization Techniques
-- **Deep Learning Pipeline:** Built, trained, and evaluated a DNN using TensorFlow/Keras. Implemented best practices for layer creation and model saving formats.
-- **Model Optimization Suite:** Demonstrated manual weight pruning, float16 compression, and profiling for performance analysis.
-- **Practice Files:**
-	- [deep_learning_pipeline.py](Week_04/day_22_deep_learning/deep_learning_pipeline.py)
-	- [model_optimization_suite.py](Week_04/day_22_deep_learning/model_optimization_suite.py)
-**Result:** Established a foundation for deep learning and model optimization, ready for advanced neural network techniques in upcoming days.
+### Day 33-40 (September 29, 2025) ✅ 🚀 Project Spotlight: Local Business AI Agent
+I stopped following tutorials and built a production-grade, air-gapped RAG Agent for legal automation.
+* *Tech Stack:* Llama 3.2, LangChain, Streamlit, ChromaDB.
+* *Key Feature:* Reads PDF contracts and answers questions without internet.
+* *View the Code:* [👉 Click here to see the Project Repository](https://github.com/ashwin-aiml-engineer/Local-Business-AI-Agent)
 
 ### Days 23–32 (October → November, 2025) ✅ *NEURAL NETWORKS → VERSIONING & TRACKING*
 Brief summary of the content added through Day 32 (concise 15-minute practice files, demos, and exercises):
